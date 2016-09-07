@@ -12,7 +12,7 @@ npm install southpark-names
 
 ## Usage
 
-```
+```js
 var southParkNames = require('southpark-names');
 
 var randomName = southParkNames.random();
