@@ -1,5 +1,6 @@
 # southpark-names
-[![Travis build](https://img.shields.io/travis/johemst/southpark-names.svg)](https://travis-ci.org/johemst/southpark-names) [![Version](https://img.shields.io/npm/v/southpark-names.svg)](https://www.npmjs.com/package/southpark-names)![Downloads](https://img.shields.io/npm/dm/southpark-names.svg)
+
+[![Travis build](https://img.shields.io/travis/johemst/southpark-names.svg?style=flat-square)](https://travis-ci.org/johemst/southpark-names) [![Version](https://img.shields.io/npm/v/southpark-names.svg?style=flat-square)](https://www.npmjs.com/package/southpark-names)[![Downloads](https://img.shields.io/npm/dm/southpark-names.svg?style=flat-square)](https://npm-stat.com/charts.html?package=southpark-names)
 
 > Get names of South Park characters.
 
