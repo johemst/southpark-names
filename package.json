@@ -12,6 +12,10 @@
   "scripts": {
     "test": "jest"
   },
+  "files": [
+  "index.js",
+  "southpark-names.json"
+  ],
   "keywords": [
     "random",
     "south",
