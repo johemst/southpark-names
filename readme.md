@@ -27,3 +27,17 @@ console.log(allNames);
 //=> 'Kyle Broflovski'
 //=> '...'
 ```
+
+## API
+
+### .random()
+
+Type: `function`
+
+Random character name.
+
+### .all
+
+Type: `array`
+
+All South Park characters.
